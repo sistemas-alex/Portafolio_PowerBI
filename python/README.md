@@ -7,14 +7,4 @@ El objetivo principal será proporcionar a los líderes una efectivo panorama pa
 
 ![alt text](image.png)
 
-<br>
-![alt text](image-1.png)
-
-<br>
-![alt text](image-2.png)
-
-<br>
-![alt text](image-3.png)
-
-<br>
-![alt text](image-4.png)
+![alt text](image-5.png)
