@@ -8,3 +8,6 @@ El objetivo principal será proporcionar a los líderes una efectivo panorama pa
 ![alt text](image.png)
 
 ![alt text](image-5.png)
+
+![alt text](image-6.png)
+
